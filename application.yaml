@@ -1,0 +1,9 @@
+app:
+  common:
+    message: "Hello from centralized Spring Cloud Config"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

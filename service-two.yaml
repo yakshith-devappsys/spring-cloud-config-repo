@@ -1,0 +1,7 @@
+server:
+  port: 8082
+
+app:
+  name: Service Two
+  feature:
+    enabled: true
