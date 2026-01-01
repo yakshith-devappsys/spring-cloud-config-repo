@@ -1,0 +1,4 @@
+app:
+  name: Server One - UAT
+  feature:
+    enabled: false

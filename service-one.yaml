@@ -1,7 +1,0 @@
-server:
-  port: 8081
-
-app:
-  name: Service One
-  feature:
-    enabled: true
