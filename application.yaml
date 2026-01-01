@@ -1,6 +1,6 @@
 app:
   common:
-    message: "Hello from centralized Spring Cloud Config"
+    message: "Common config for all services - Git Repo"
 
 management:
   endpoints:
