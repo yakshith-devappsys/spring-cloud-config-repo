@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  name: Server One
+  name: Service One

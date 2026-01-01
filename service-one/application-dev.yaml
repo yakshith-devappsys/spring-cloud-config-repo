@@ -1,4 +1,4 @@
 app:
-  name: Server One - DEV
+  name: Service One - DEV
   feature:
     enabled: true

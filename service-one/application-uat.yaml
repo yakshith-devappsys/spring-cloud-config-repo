@@ -1,4 +1,4 @@
 app:
-  name: Server One - UAT
+  name: Service One - UAT
   feature:
     enabled: false
